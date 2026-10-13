@@ -1,0 +1,530 @@
+{
+ "sheet_id": "seoul-2026-v1-analyst-1",
+ "version": 1,
+ "created": "2026-10-12",
+ "title": "서울시 2026년도 예산안 사업 검토 정답지",
+ "subtitle": "사업 10건 · 예산분석 전문가 작성용 · 사업설명서 원문 포함",
+ "with_handout": true,
+ "file_prefix": "서울예산정답지",
+ "issue_types": [
+  {
+   "id": "exec_overrun",
+   "label": "집행 부진 대비 과다 편성",
+   "group": "집행 실적·편성 규모"
+  },
+  {
+   "id": "carryover",
+   "label": "이월 반복·연례 이월",
+   "group": "집행 실적·편성 규모"
+  },
+  {
+   "id": "supp_unspent",
+   "label": "추경 증액분 미집행",
+   "group": "집행 실적·편성 규모"
+  },
+  {
+   "id": "basis",
+   "label": "산출근거 부실·단가 과다",
+   "group": "집행 실적·편성 규모"
+  },
+  {
+   "id": "invest_review",
+   "label": "투자심사·타당성조사 등 사전 절차",
+   "group": "절차·재원"
+  },
+  {
+   "id": "funding",
+   "label": "국비·지방비 재원 구조(보조율·매칭)",
+   "group": "절차·재원"
+  },
+  {
+   "id": "bond",
+   "label": "지방채 발행·사용",
+   "group": "절차·재원"
+  },
+  {
+   "id": "fund",
+   "label": "기금 운용",
+   "group": "절차·재원"
+  },
+  {
+   "id": "readiness",
+   "label": "사업 준비 미비(설계·부지·협의·인허가)",
+   "group": "사업 계획·효과"
+  },
+  {
+   "id": "necessity",
+   "label": "사업 필요성·효과 불분명",
+   "group": "사업 계획·효과"
+  },
+  {
+   "id": "duplication",
+   "label": "유사·중복 사업",
+   "group": "사업 계획·효과"
+  },
+  {
+   "id": "performance",
+   "label": "성과지표·성과관리",
+   "group": "사업 계획·효과"
+  },
+  {
+   "id": "delivery",
+   "label": "위탁·보조 방식·계약",
+   "group": "사업 계획·효과"
+  },
+  {
+   "id": "other",
+   "label": "기타(직접 입력)",
+   "group": "사업 계획·효과"
+  }
+ ],
+ "conclusions": [
+  {
+   "id": "cut",
+   "label": "감액 검토 필요"
+  },
+  {
+   "id": "reconsider",
+   "label": "사업 재검토·보류"
+  },
+  {
+   "id": "data",
+   "label": "자료 보완·제출 요구"
+  },
+  {
+   "id": "manage",
+   "label": "집행 관리·계획 보완 요구"
+  },
+  {
+   "id": "increase",
+   "label": "증액·확대 필요"
+  },
+  {
+   "id": "note",
+   "label": "참고(현황 기록)"
+  }
+ ],
+ "importance": [
+  {
+   "id": "must",
+   "label": "보고서에 꼭 들어가야 함"
+  },
+  {
+   "id": "should",
+   "label": "들어가면 좋음"
+  },
+  {
+   "id": "minor",
+   "label": "참고 수준"
+  }
+ ],
+ "sources": [
+  {
+   "id": "review",
+   "label": "전문위원 검토의견에 있음"
+  },
+  {
+   "id": "council",
+   "label": "의회 감액(조정)과 관련"
+  },
+  {
+   "id": "own",
+   "label": "분석관 판단으로 추가"
+  }
+ ],
+ "projects": [
+  {
+   "id": "p01",
+   "key10": "0c220e8bda",
+   "title": "서울도심 보행환경개선",
+   "bureau": "재난안전실",
+   "department": "도로관리과",
+   "committee": "도시안전건설위원회",
+   "account": "도시개발특별회계",
+   "handout_pages": "436~440쪽",
+   "amendment": [
+    {
+     "proposed": 4632000,
+     "amended": 2632000,
+     "change": -2000000,
+     "detail": "(205-401-01) 시설비 | ∘ 서울도심 보행환경 개선사업 | 4,500,000 → 2,500,000 (△2,000,000)"
+    }
+   ],
+   "council_change": -2000000,
+   "review": {
+    "report": "2026년도 도시안전건설위원회 소관 예산안 예비심사보고서",
+    "head": "4) 서울도심 보행환경개선(사업별설명서 p.480)",
+    "pdf_pages": [
+     139,
+     140,
+     141,
+     142
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "25. 재난안전실",
+    "labels": [
+     "436",
+     "437",
+     "438",
+     "439",
+     "440"
+    ],
+    "redacted_pages": 1,
+    "terms": 6
+   }
+  },
+  {
+   "id": "p02",
+   "key10": "0f523e3754",
+   "title": "뚝섬유수지 CSOs 저류조 설치",
+   "bureau": "물순환안전국",
+   "department": "수변감성도시과",
+   "committee": "도시안전건설위원회",
+   "account": "일반회계",
+   "handout_pages": "82~84쪽",
+   "amendment": [],
+   "council_change": 0,
+   "review": {
+    "report": "2026년도 도시안전건설위원회 소관 예산안 예비심사보고서",
+    "head": "(5) 뚝섬유수지 CSOs 저류조 설치 (사업별설명서 P.82)",
+    "pdf_pages": [
+     252,
+     253
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "30. 물순환안전국",
+    "labels": [
+     "82",
+     "83",
+     "84"
+    ],
+    "redacted_pages": 1,
+    "terms": 6
+   }
+  },
+  {
+   "id": "p03",
+   "key10": "12518f309a",
+   "title": "우이신설 연장선 도시철도 건설",
+   "bureau": "도시기반시설본부",
+   "department": "도시철도설계부",
+   "committee": "교통위원회",
+   "account": "도시철도건설사업비특별회계",
+   "handout_pages": "13~16쪽",
+   "amendment": [
+    {
+     "proposed": 1640000,
+     "amended": 16770000,
+     "change": 15130000,
+     "detail": "(201-401-01) 시설비 | ∘ 공사비(2차분), 설계비 | (x0) 0 → (x7,168,000) 14,770,000 | ((x7,168,000) 14,770,000) | (201-401-02) 감리비 | ∘ 건설사업 감리비(2차분), 시스템엔지니어링(SE) 감리비 | (x620,000) 1,540,000 → (x700,000) 1,900,000 ((x80,000) 360,000)"
+    }
+   ],
+   "council_change": 15130000,
+   "review": {
+    "report": "2026년도 교통위원회 소관 예산안 예비심사보고서",
+    "head": "▮ 우이신설 연장선 도시철도 건설(사업별 설명서 p.13~16)",
+    "pdf_pages": [
+     37
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "32. 도시기반시설본부(도시철도국)",
+    "labels": [
+     "13",
+     "14",
+     "15",
+     "16"
+    ],
+    "redacted_pages": 1,
+    "terms": 6
+   }
+  },
+  {
+   "id": "p04",
+   "key10": "67d9f93070",
+   "title": "도림천 유지용수 개선 기본 및 실시설계",
+   "bureau": "물순환안전국",
+   "department": "수변감성도시과",
+   "committee": "도시안전건설위원회",
+   "account": "일반회계",
+   "handout_pages": "145~147쪽",
+   "amendment": [
+    {
+     "proposed": 515000,
+     "amended": 1015000,
+     "change": 500000,
+     "detail": "(100-401-01) 시설비 | ∘ 설계비 | 515,000 → 1,015,000 (500,000)"
+    }
+   ],
+   "council_change": 500000,
+   "review": {
+    "report": "2026년도 도시안전건설위원회 소관 예산안 예비심사보고서",
+    "head": "(10) 도림천 유지용수 개선 기본 및 실시설계 (사업별설명서 P.145)",
+    "pdf_pages": [
+     259,
+     260
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "30. 물순환안전국",
+    "labels": [
+     "145",
+     "146",
+     "147"
+    ],
+    "redacted_pages": 1,
+    "terms": 6
+   }
+  },
+  {
+   "id": "p05",
+   "key10": "81d8b41f70",
+   "title": "GPR 등을 통한 지반침하 예방",
+   "bureau": "재난안전실",
+   "department": "지하안전과",
+   "committee": "도시안전건설위원회",
+   "account": "도시개발특별회계",
+   "handout_pages": "480~484쪽",
+   "amendment": [
+    {
+     "proposed": 11776250,
+     "amended": 11767450,
+     "change": -8800,
+     "detail": "(205-401-01) 시설비 | ∘ 시도 공동조사 용역비 | 3,319,800 → 3,311,000 (△8,800)"
+    }
+   ],
+   "council_change": -8800,
+   "review": {
+    "report": "2026년도 도시안전건설위원회 소관 예산안 예비심사보고서",
+    "head": "5) GPR 등을 통한 지반침하 예방 (사업별설명서 p.480)",
+    "pdf_pages": [
+     142,
+     143,
+     144,
+     145,
+     146,
+     147
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "25. 재난안전실",
+    "labels": [
+     "480",
+     "481",
+     "482",
+     "483",
+     "484"
+    ],
+    "redacted_pages": 1,
+    "terms": 6
+   }
+  },
+  {
+   "id": "p06",
+   "key10": "9b102da6ff",
+   "title": "광운대역~월계로간 도로개설",
+   "bureau": "재난안전실",
+   "department": "도로계획과",
+   "committee": "도시안전건설위원회",
+   "account": "도시개발특별회계",
+   "handout_pages": "239~242쪽",
+   "amendment": [
+    {
+     "proposed": 8180857,
+     "amended": 6680857,
+     "change": -1500000,
+     "detail": "(205-401-01) 시설비 | ∘ 보상비 등 | 7,190,357→5,690,357 (△1,500,000)"
+    }
+   ],
+   "council_change": -1500000,
+   "review": {
+    "report": "2026년도 도시안전건설위원회 소관 예산안 예비심사보고서",
+    "head": "2) 광운대역~월계로간 도로개설(사업별설명서 p.239)",
+    "pdf_pages": [
+     132,
+     133,
+     134
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "25. 재난안전실",
+    "labels": [
+     "239",
+     "240",
+     "241",
+     "242"
+    ],
+    "redacted_pages": 1,
+    "terms": 6
+   }
+  },
+  {
+   "id": "p07",
+   "key10": "4432c07f23",
+   "title": "남산 권역 친수 문화공간 조성",
+   "bureau": "물순환안전국",
+   "department": "수변감성도시과",
+   "committee": "도시안전건설위원회",
+   "account": "일반회계",
+   "handout_pages": "50~52쪽",
+   "amendment": [
+    {
+     "proposed": 350000,
+     "amended": 266183,
+     "change": -83817,
+     "detail": "(100-401-01) 시설비 | ∘ 기본구상 용역 | 350,000 → 266,183 (△83,817)"
+    }
+   ],
+   "council_change": -83817,
+   "review": {
+    "report": "2026년도 도시안전건설위원회 소관 예산안 예비심사보고서",
+    "head": "(3) 남산 권역 친수 문화공간 조성 (사업별설명서 P.50)",
+    "pdf_pages": [
+     248,
+     249
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "30. 물순환안전국",
+    "labels": [
+     "50",
+     "51",
+     "52"
+    ],
+    "redacted_pages": 1,
+    "terms": 6
+   }
+  },
+  {
+   "id": "p08",
+   "key10": "5fe09c9d5a",
+   "title": "의회 청사 시설개선",
+   "bureau": "의회사무처",
+   "department": "운영지원과",
+   "committee": "운영위원회",
+   "account": "일반회계",
+   "handout_pages": "77~82쪽",
+   "amendment": [
+    {
+     "proposed": 2885770,
+     "amended": 2535877,
+     "change": -349893,
+     "detail": "(100-401-01) 시설비 | ∘ 본관 및 별관 보수 보강 공사 | 960,000 → 810,107 (△149,893) | (100-405-01) 자산및물품취득비 | ∘ 사무용가구 구매 | 500,000 → 300,000 (△200,000)"
+    }
+   ],
+   "council_change": -349893,
+   "review": {
+    "report": "2026년도 운영위원회 소관 예산안 예비심사보고서",
+    "head": "6) 의회 청사 시설개선 <사업설명서 p.77>",
+    "pdf_pages": [
+     54,
+     55,
+     56,
+     57
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "2026년도 예산(안) 성과계획서 및 사업별설명서_의회사무처(운영위)",
+    "labels": [
+     "77",
+     "78",
+     "79",
+     "80",
+     "81",
+     "82"
+    ],
+    "redacted_pages": 1,
+    "terms": 24
+   }
+  },
+  {
+   "id": "p09",
+   "key10": "8bafbf6a1a",
+   "title": "한강교량 내진성능 보강",
+   "bureau": "재난안전실",
+   "department": "교량안전과",
+   "committee": "도시안전건설위원회",
+   "account": "도시개발특별회계",
+   "handout_pages": "841~844쪽",
+   "amendment": [
+    {
+     "proposed": 3400000,
+     "amended": 2100000,
+     "change": -1300000,
+     "detail": "(205-401-01) 시설비 | ∘ 한강교량 내진성능 보강 공사비 | 2,900,000 → 1,600,000 (△1,300,000)"
+    }
+   ],
+   "council_change": -1300000,
+   "review": {
+    "report": "2026년도 도시안전건설위원회 소관 예산안 예비심사보고서",
+    "head": "6) 한강교량 내진성능 보강 (사업별설명서 p.841)",
+    "pdf_pages": [
+     147,
+     148,
+     149
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "25. 재난안전실",
+    "labels": [
+     "841",
+     "842",
+     "843",
+     "844"
+    ],
+    "redacted_pages": 1,
+    "terms": 6
+   }
+  },
+  {
+   "id": "p10",
+   "key10": "a2bfba5472",
+   "title": "서울시의회형 빅데이터 분석",
+   "bureau": "의회사무처",
+   "department": "재정분석과",
+   "committee": "운영위원회",
+   "account": "일반회계",
+   "handout_pages": "199~202쪽",
+   "amendment": [
+    {
+     "proposed": 129607,
+     "amended": 0,
+     "change": -129607,
+     "detail": "(100-201-01) 사무관리비 | ∘ 빅데이터 분석 보고서 작성 | 128,000 → 0 (△128,000) | ∘ 제안서 평가위원회 개최 | 1,600 → 0 (△1,600) | (100-201-02) 공공운영비 | ∘ 문자전송료(보고서 전송료) | 7 → 0 (△7)"
+    }
+   ],
+   "council_change": -129607,
+   "review": {
+    "report": "2026년도 운영위원회 소관 예산안 예비심사보고서",
+    "head": "15) 서울시의회형 빅데이터 분석 <사업설명서 p.199>",
+    "pdf_pages": [
+     71,
+     72
+    ],
+    "truncated": false
+   },
+   "handout": {
+    "file": "2026년도 예산(안) 성과계획서 및 사업별설명서_의회사무처(운영위)",
+    "labels": [
+     "199",
+     "200",
+     "201",
+     "202"
+    ],
+    "redacted_pages": 1,
+    "terms": 6
+   }
+  }
+ ]
+}
