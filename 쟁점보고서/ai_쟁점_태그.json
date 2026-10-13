@@ -19,7 +19,7 @@
      "conclusion": "cut",
      "importance": "must",
      "source": [
-      "own",
+      "council",
       "review"
      ]
     },
@@ -57,7 +57,7 @@
     {
      "no": 4,
      "type": "other",
-     "type_other": "기타(총사업비·중기계획 정합성)",
+     "type_other": "총사업비·중기계획 정합성",
      "types_all": [
       "other"
      ],
@@ -354,7 +354,7 @@
     {
      "no": 4,
      "type": "other",
-     "type_other": "기타(기관 간 협의·비용 분담)",
+     "type_other": "기관 간 협의·비용 분담",
      "types_all": [
       "other"
      ],
@@ -813,11 +813,11 @@
     },
     {
      "no": 2,
-     "type": "other",
-     "type_other": "기타(총사업비·중기계획 정합성) / 투자심사 등 사전절차",
+     "type": "invest_review",
+     "type_other": "",
      "types_all": [
       "other",
-      "other"
+      "invest_review"
      ],
      "summary": "총 공사비 399억원·5년 장기계속공사인데 총사업비·연차별 투자계획이 없음",
      "evidence": "검토보고 표: 공사비(추정) 합계 39,923 = 성수 3,000 + 천호 800 + 서강 9,400 + 한남 8,000 + 잠실 13,200 + 감리비 5,523 (재계산 일치) [검토 p.145] 사업설명서 사업개요에는 \"총사업비\" 칸이 없고 당해연도 사업비 3,400만 있음. \"연차별 투자계획\" 표도 없음 [설명서 p.841~842] 사업기간 2026.03.~2030.04., \"'26년~'30년 (장기계속 공사)\" [설명서 p.841, p.843]",
@@ -862,7 +862,7 @@
     {
      "no": 5,
      "type": "other",
-     "type_other": "기타(우선순위)",
+     "type_other": "우선순위",
      "types_all": [
       "other"
      ],
@@ -877,7 +877,7 @@
     {
      "no": 6,
      "type": "other",
-     "type_other": "기타(예산 분류·근거)",
+     "type_other": "예산 분류·근거",
      "types_all": [
       "other"
      ],
@@ -943,7 +943,7 @@
     {
      "no": 4,
      "type": "other",
-     "type_other": "기타(정치적 중립성·개인정보)",
+     "type_other": "정치적 중립성·개인정보",
      "types_all": [
       "other"
      ],
